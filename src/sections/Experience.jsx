@@ -1,7 +1,7 @@
 const experiences = [
   {
     period: "July 2026 — October 2026",
-    role: "Advance Java Full Stack Trainee",
+    role: "Advance Java Full Stack Development",
     company: "Anudeep Foundation (Offline Training)",
     description:
       "Completed an Advanced Java Full Stack Development Certification covering Core Java, Advanced Java, Hibernate, and Spring Boot with hands-on practice building end-to-end full stack applications.",
